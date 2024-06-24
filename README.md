@@ -1,6 +1,6 @@
 # Git Demo Repo
 
-This is a demo app for the Git course.
+This is a normal demo app for the Git course.
 
 ## Hey man Let's see this update
 1. Say Hello
